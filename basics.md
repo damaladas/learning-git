@@ -6,3 +6,4 @@ repository
 * git commit - saves a version of a file
 * git diff - shows the difference between all committed versions
 * git log - shows log of changes
+* EDIT
