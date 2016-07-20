@@ -4,4 +4,5 @@
 repository
 * git add - places one or more files in the staging area
 * git commit - saves a version of a file
-* git diff - shows the difference between committed versions
+* git diff - shows the difference between all committed versions
+* git log - shows log of changes
